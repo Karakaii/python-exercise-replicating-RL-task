@@ -10,7 +10,7 @@ Moran, R., Keramati, M., Dayan, P., & Dolan, R. J. (2019). Retrospective model-b
 To use this replication of Moran et al.’s (2019) experiment please read the following instructions:
 1.	The only file you need to launch is the MAIN.py file. For the experimenter it will present the experiment set up form. For the participant it will then present the consent form, then the demographics form, then the instructions, then the quiz, then the experiment, and finally it will generate the result files.
 2.	In the experiment set up form you can select either a pre-existing experiment set up or create a new one by selecting 'NEW EXPERIMENT':
-    1.	Give it an ID, preferably an easier to understand one. It MUST NOT have an underscore _ in its name.
+    1.	Give it an ID, preferably an easy to understand one. It MUST NOT have an underscore _ in its name.
     2.	Tick yes or no as to whether the participants need to be 100% accurate in the quiz in order to continue on to the trials. This is useful if you just want to check the functioning of the code (e.g., if you are a marker).
     3.	The triplet trial numbers MUST be multiples of 3, and it is best if they are multiples of 12.
     4.	The standard trial numbers can be any number but it is best if they are multiples of 6.
